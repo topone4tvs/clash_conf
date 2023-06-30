@@ -42,3 +42,7 @@ https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
 #EXTINF:-1 tvg-id="五星体育HD" tvg-name="五星体育HD" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育HD
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="五星体育IV6" tvg-name="五星体育IV6" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育IV6
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
+#EXTINF:-1 tvg-id="五星体育RTSP" tvg-name="五星体育RTSP" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育RTSP
+rtsp://124.75.34.37/PLTV/88888888/224/3221226234/10000100000000060000000000813434_0.smil
