@@ -1,0 +1,21 @@
+hosts:
+  '*.songzhaopian.com': 118.31.78.252
+  '*.rouzao.com': 118.31.78.252
+  '*.wanhua.art': 118.31.78.252
+  'admin.yinge.tech': 118.31.78.252
+  '*.weiyinkeji.cn': 118.31.78.252
+  'ycanvas.yinge.tech': 118.31.78.252
+  'reseller.yinge.tech': 118.31.78.252
+  'kefu.yinge.tech': 118.31.78.252
+  'www.yinge.tech': 118.31.78.252
+  'open-doc.yinge.tech': 118.31.78.252
+  'open.yinge.tech': 118.31.78.252
+  'rouzao.com': 118.31.78.252
+  'songzhaopian.com': 118.31.78.252
+  'yinge.tech': 118.31.78.252
+
+# https://mihomo.party/docs/guide/override/yaml
++rules:
+  - "IP-CIDR,10.31.66.1/24,DIRECT"
+  - "DOMAIN-SUFFIX,topone4tvs.top,DIRECT"
+  - "DOMAIN-SUFFIX,asuscomm.com,DIRECT"
